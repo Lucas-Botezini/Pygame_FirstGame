@@ -6,4 +6,4 @@ and this game was made while watching/learning from the course "The ultimate int
 
 In this repository there are 3 python files, one of them being the commented version, which I did while learning, so I let it full of comments so I could come back and see it again.
 
-So I hope you like, it and thank you very much!
+So I hope you like it and thank you very much!
