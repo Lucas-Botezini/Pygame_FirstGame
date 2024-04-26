@@ -1,6 +1,6 @@
 Hello Everyone,
 
-This repository contains the first Pygame a made! 
+This repository contains the first Pygame I made! 
 This was made to present at school, so a hope you like it too,
 and this game was made while watching/learning from the course "The ultimate introduction to Pygame" from "Clear Code",
 
